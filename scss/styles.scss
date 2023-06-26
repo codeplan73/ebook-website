@@ -16,6 +16,11 @@
   background-size: cover;
 }
 
+.download {
+  background: url(../images/download-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 @media (max-width: 1000px) {
   .hero .img-container {
     display: flex;
